@@ -3,11 +3,12 @@ Recipe app api source code.
 
 pip install djangorestframework
 
-Run migrations
+<b> Run migrations </b>
 
 python manage.py makemigrations
+
 python manage.py migrate
 
-Run code
+<b> Run code </b>
 
 python manage.py runserver
